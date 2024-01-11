@@ -6,7 +6,6 @@ edition = "2021"
 license = "MIT OR Apache-2.0"
 description = "A macro to send keystrokes using the windows crate"
 homepage = "https://github.com/Subwater/sendkeys-rs"
-documentation = "https://github.com/Subwater/sendkeys-rs"
 repository = "https://github.com/Subwater/sendkeys-rs"
 readme = "readme.md"
 
